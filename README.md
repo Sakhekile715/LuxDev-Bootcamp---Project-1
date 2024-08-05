@@ -17,6 +17,7 @@ This project is part of the Lux Dev Data Career Bootcamp by Lux Tech Academy. Th
    - Find all instances where the weather is clear and the relative humidity is greater than 50, or visibility is above 40.
    - Find the number of weather conditions that include snow.
 2.  **Part 2: SQL Analysis**
+
 We were to answer any of the four questions above after the Python analysis, and I chose to answer the following:
 - Find all records where the weather was exactly clear.
 - Find the number of records where the wind speed is greater than 24 km/hr and visibility is equal to 25 km.
